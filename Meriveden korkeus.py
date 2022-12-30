@@ -1,7 +1,6 @@
 """
 # COMP.CS.100 Project 2: Changes in seawater levels
 # Made by: Linda Riikonen
-# Student number: 151124314
 """
 
 
