@@ -321,7 +321,8 @@ def calculate_route(data):
 
 
 def main():
-    input_file = input("Enter input file name: ")
+    # input_file = input("Enter input file name: ")
+    input_file = "distances1.txt"
 
     # Store the data into a dictionary
     distance_data = read_distance_file(input_file)
