@@ -1,7 +1,6 @@
 """
 COMP.CS.100 Project 3: Travel route optimizer
 Made by: Linda Riikonen
-Student number: 151124314
 """
 
 
