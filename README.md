@@ -1,5 +1,4 @@
-# Python-projects
-School projects
+School assignments in Python. Done in course COMP.CS.100 COMP.CS.100 Ohjelmointi 1.
 
 Meriveden korkeus/Changes in sea water altitudes:
 The program takes seawater altitudes from the user and returns
